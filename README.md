@@ -1,20 +1,29 @@
-# Hi! , I'm Luis
+# Hi! 👋, I'm Luis
 
-### [Tu Título/Rol Principal] | [Segunda Especialidad] | [Tercera Especialidad]
+### Mathematics Student | Data Analysis | Applied Logic
 
-🎓 [Tu nivel educativo] en [Tu carrera] en [Tu universidad] (GPA: XX/100)  
-🏆 [Competencia o logro destacado] - [Descripción breve]  
-🔬 Actualmente explorando [Tu área de interés principal]  
-🌎 De [Tu ciudad], [Tu país], apasionado/a por [tus pasiones]
+🎓 **Undergraduate student in Mathematics** at the **Faculty of Sciences, National Autonomous University of Mexico (UNAM)**  
+🏆 **Research and learning focused on mathematical reasoning and problem solving** – developing a rigorous understanding of algebra, analysis, and their applications.  
+🔬 Currently exploring **connections between mathematics, cognition, and learning systems**, as well as methods for effective knowledge organization such as **Zettelkasten**.  
+🌎 From **Mexico City, Mexico**, passionate about **mathematics, education, and the intersection between logic and creativity**.
 
 ---
 
 ## 🔧 What I'm working on
 
-- **[Nombre del Proyecto 1]** - [Descripción breve de tecnologías: CI/CD, Docker, Kubernetes, etc.]
-- **[Nombre del Proyecto 2]** - [Descripción del proyecto y objetivo]
-- **[Nombre del Proyecto 3]** - [Descripción del proyecto y objetivo]
-- **[Organización/Iniciativa]** - [Descripción de tu participación]
+- **Business Intelligence Automation (n8n & API Integrations)**  
+  Exploring low-code workflows to automate business operations using **n8n**, **webhooks**, and **data pipelines**, with a focus on building scalable and maintainable BI automations for small and medium businesses.
+
+- **Frontend Development for Immersive Experiences**  
+  Learning **React**, **Next.js**, and **modern UI frameworks** to create interactive and visually immersive web experiences that connect mathematical structure with creative design principles.
+
+- **Digital Radiology Assistant (AI for Healthcare)**  
+  Early-stage concept aiming to build a **computer vision pipeline** for analyzing radiographic images. The long-term goal is to support **medical diagnosis validation** and reduce **false positives/negatives** using **TensorFlow**, **Vision Transformers**, and **Deep Learning** frameworks.  
+  Currently focusing on understanding **model interpretability**, **data preprocessing**, and how to implement reproducible research pipelines.
+
+- **Deep Learning Research & Open Source Collaboration**  
+  Studying formal **deep learning frameworks and research papers** to implement, test, and eventually contribute to **open-source AI tools**. Preparing for an entry-level **research or data internship** to gain practical experience in the field.
+
 
 ---
 
@@ -88,7 +97,3 @@
 </p>
 
 ---
-
-<p align="center">
-<i>"[Tu frase inspiradora sobre tecnología, educación o desarrollo]"</i>
-</p>
