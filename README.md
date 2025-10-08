@@ -3,8 +3,11 @@
 ### Mathematics Student | Data Analysis | Applied Logic
 
 🎓 **Undergraduate student in Mathematics** at the **Faculty of Sciences, National Autonomous University of Mexico (UNAM)**  
+
 🏆 **Research and learning focused on mathematical reasoning and problem solving** – developing a rigorous understanding of algebra, analysis, and their applications.  
+
 🔬 Currently exploring **connections between mathematics, cognition, and learning systems**, as well as methods for effective knowledge organization such as **Zettelkasten**.  
+
 🌎 From **Mexico City, Mexico**, passionate about **mathematics, education, and the intersection between logic and creativity**.
 
 ---
