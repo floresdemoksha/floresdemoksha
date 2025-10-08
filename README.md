@@ -19,35 +19,6 @@
 - **Digital Radiology Assistant (AI)** – Designing an early-stage computer vision pipeline for radiograph analysis using TensorFlow, Vision Transformers, and Deep Learning.  
 - **Deep Learning Research** – Studying formal frameworks and papers to implement AI tools and prepare for research/data internships.
 
----
-
-## 🏅 Recent achievements
-
-- 🥇 **ADHD Prediction via TDA and GNN** – 1st place at Hackathon (Instituto de Matemáticas, UNAM, March 2025). Built a predictive model for ADHD using Topological Data Analysis and Graph Neural Networks (PyTorch) on inter-brain connectomes.
-
----
-
-## 🔬 Research interests
-
-- **Deep Learning & Computer Vision** – Modeling complex spatial and medical data to improve diagnostic accuracy and interpretability.  
-- **Data Analysis & Business Intelligence** – Automating workflows and extracting insights using n8n, Power BI, SQL, and statistical methods.  
-- **Mathematical Modeling & Physics** – Applying geometry, differential equations, and dynamical systems to understand phenomena and inspire AI approaches.  
-- **Applied Mathematics for AI** – Using algebraic, topological, and analytical tools to enhance neural network design, optimization, and learning dynamics.
-
----
-
-## 💻 Tech Stack
-
-**Languages:** Python (Intermediate) • C++ (Familiar) • Java (Familiar) • JavaScript (Learning)  
-
-**Data & Analysis Tools:** Pandas • NumPy • Matplotlib • Scikit-learn • Power BI • Excel • MySQL  
-
-**Machine Learning / AI:** TensorFlow (Learning) • PyTorch (Learning) • Vision Transformers (Research)  
-
-**Automation & Workflow:** n8n • API Integrations • Git/GitHub • Unix Shell  
-
-**Other Skills:** Data Cleaning • Exploratory Data Analysis (EDA) • Report Automation • Markdown / LaTeX 
-
 
 ---
 
