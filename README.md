@@ -8,8 +8,6 @@
 
 🔬 Currently exploring **Deep Learning, Computer Vision, and Business Intelligence**, as well as **mathematical modeling and physics-inspired approaches** for AI and data analysis.  
 
-🌎 From **Mexico City, Mexico**, passionate about **mathematics, AI, data-driven solutions, and the intersection between logic and creativity**.
-
 
 ---
 ## 🔧 What I'm working on
