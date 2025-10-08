@@ -14,7 +14,7 @@
 
 ## 🔧 What I'm working on
 
-- **Business Intelligence Automation (n8n & API Integrations)**  
+- **Business Intelligence Automation (n8n & API Integrations)**
   Exploring low-code workflows to automate business operations using **n8n**, **webhooks**, and **data pipelines**, with a focus on building scalable and maintainable BI automations for small and medium businesses.
 
 - **Frontend Development for Immersive Experiences**  
@@ -27,58 +27,48 @@
 - **Deep Learning Research & Open Source Collaboration**  
   Studying formal **deep learning frameworks and research papers** to implement, test, and eventually contribute to **open-source AI tools**. Preparing for an entry-level **research or data internship** to gain practical experience in the field.
 
-
----
-
-## 🌱 Currently learning
-
-- **[Tema 1]** - [Qué estás aprendiendo específicamente]
-- **[Tema 2]** - [Tecnologías o frameworks específicos]
-- **[Tema 3]** - [Herramientas y tecnologías]
-- **[Tema 4]** - [Área teórica o práctica]
-
 ---
 
 ## 🏅 Recent achievements
 
-- **[Logro 1]** - [Descripción y fecha]
-- **[Logro 2]** - [Ranking o resultado específico]
-- **[Logro 3]** - [Evento organizado o participación destacada]
-- **[Logro 4]** - [Premio o reconocimiento especial]
+- 🥇 **ADHD Prediction via TDA and GNN (Graph Neural Networks)** – Won 1st place at a Hackathon (Instituto de Matemáticas, UNAM, March 2025).  
+  Developed a predictive model for ADHD using **Topological Data Analysis** and **Graph Neural Networks (PyTorch)** based on inter-brain connectomes.  
+
 
 ---
-
 ## 🔬 Research interests
 
-- **[Área de investigación 1]** - [Enfoque específico]
-- **[Área de investigación 2]** - [Preguntas o temas que exploras]
-- **[Área de investigación 3]** - [Impacto o aplicación]
-- **[Área de investigación 4]** - [Aproximación o metodología]
+- **Deep Learning & Computer Vision** – Studying how neural architectures such as CNNs, Vision Transformers, and GNNs can model complex spatial and medical data to enhance diagnostic accuracy and model interpretability.  
+
+- **Data Analysis & Business Intelligence** – Exploring automated data workflows and decision-support systems through open-source tools (n8n, Power BI, SQL) and statistical methods for efficient information extraction.  
+
+- **Mathematical Modeling & Theoretical Physics** – Applying mathematical reasoning, geometry, and dynamical systems to describe physical phenomena and inspire new approaches in artificial intelligence and data modeling.  
+
+- **Applied Mathematics for AI** – Investigating how algebraic, topological, and analytical tools can improve neural network design, optimization, and the understanding of learning dynamics.
+
 
 ---
 
-## 💻 Tech stack
+## 💻 Tech Stack
 
-**Languages:** Python (X yrs) • C++ (X yrs) • Java (X yrs) • JavaScript (X yrs) • Go (X yr)
+**Languages:** Python (Intermediate) • C++ (Familiar) • Java (Familiar) • JavaScript (Learning)  
 
-**Technologies:** Docker • Jenkins • Kubernetes • GitHub Actions • PostgreSQL • PyTorch • Google Cloud
+**Data & Analysis Tools:** Pandas • NumPy • Matplotlib • Scikit-learn • Power BI • Excel • MySQL  
 
-**Specialties:** Competitive Programming • DevOps • Full-stack Development • AI/ML • Linux/Bash
+**Machine Learning / AI:** TensorFlow (Learning) • PyTorch (Learning) • Vision Transformers (Research)  
+
+**Automation & Workflow:** n8n • API Integrations • Git/GitHub • Unix Shell  
+
+**Other Skills:** Data Cleaning • Exploratory Data Analysis (EDA) • Report Automation • Markdown / LaTeX 
+
 
 ---
 
 ## 🌐 Languages
 
-🇪🇸 Spanish (Native) • 🇬🇧 English (B2) • 🇩🇪 German (A2)
+🇪🇸 Spanish (Native) • 🇬🇧 English (B2) 
 
 ---
-
-## 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
 ---
 
